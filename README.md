@@ -75,5 +75,5 @@ Education and marital status
  Data-Driven Strategy: Supports smarter business and risk management decisions
 
 6. Screenshot / Demos.
-   Show what the dashboard looks like.- 
+   Show what the dashboard looks like.- https://github.com/HimanshuChaudharii/-INSURANCE-RISK-CLAIMS-ANALYSIS/blob/main/Screenshot%202026-04-05%20002549.png
    
