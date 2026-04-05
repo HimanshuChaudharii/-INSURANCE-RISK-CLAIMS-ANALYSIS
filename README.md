@@ -18,7 +18,7 @@ The dashboard was built using the following tools and technologies:
 • 📈 Visualization Tools – KPI Cards, Bar Charts, Donut Charts, Line Charts, Tables
 • 📁 File Format – .pbix for development and .png for dashboard preview
 
- 5. Features / Highlights
+ 4. Features / Highlights
  Business Problem
 The insurance industry deals with massive datasets containing customer, vehicle, and claim information. However, extracting meaningful insights manually is complex and inefficient.
 
@@ -76,7 +76,7 @@ Education and marital status
  Operational Efficiency: Reduces manual analysis through automated insights
  Data-Driven Strategy: Supports smarter business and risk management decisions
 
-6. Screenshot / Demos.
+5. Screenshot / Demos.
    Show what the dashboard looks like.-
    Example: ![Dashboard Preview](https://github.com/HimanshuChaudharii/-INSURANCE-RISK-CLAIMS-ANALYSIS/blob/main/Screenshot%202026-04-05%20002549.png).
     Example: ![Dashboard Preview](https://github.com/HimanshuChaudharii/-INSURANCE-RISK-CLAIMS-ANALYSIS/blob/main/Screenshot%202026-04-05%20161224.png)
