@@ -1,4 +1,6 @@
 # -INSURANCE-RISK-CLAIMS-ANALYSIS
+##Intractive Dashboard
+[**Explore the Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiNjEwNTJmODktMjY5Ny00NzE0LWI1MDQtN2I1ZWFhODc3NTJjIiwidCI6ImUxNGU3M2ViLTUyNTEtNDM4OC04ZDY3LThmOWYyZTJkNWE0NiIsImMiOjEwfQ%3D%3D).
 1. Project Title / Headline
 Insurance Insights: Risk & Claims Analysis Dashboard
 A dynamic and interactive Power BI dashboard designed to analyze insurance policy distribution, claim behavior, and risk patterns across customer demographics and vehicle attributes.
